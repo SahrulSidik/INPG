@@ -1,2 +1,2 @@
-# inpg
+# INPG
 Intro To Programing
