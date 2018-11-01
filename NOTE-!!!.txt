@@ -6,8 +6,9 @@ When inside folder Day-1, ----, Day-24 is nothing
 it's mean no duty,
 
 
---- This is the track when i'm learning on Hacktiv8 ---
 
+
+--- This is the track when i'm learning Intro To Programing on Hacktiv8 ---
 by 
 Sahrul Sidik
 https://github.com/SahrulSidik/
