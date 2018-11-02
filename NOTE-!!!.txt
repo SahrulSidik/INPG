@@ -1,6 +1,6 @@
 Note !!!
 
-Here is inside on INPG Folder will filled by
+Here inside on INPG Folder will filled by
 folder Day-1, Day-2, Day-3, ----, Day-24.
 When inside folder Day-1, ----, Day-24 is nothing
 it's mean not push duty yet or no duty !!!
