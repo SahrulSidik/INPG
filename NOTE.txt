@@ -1,0 +1,15 @@
+Note !!!
+
+Here inside on INPG Folder will filled by
+folder Day0001, Day0002, Day0003, ----, Day0024
+When inside folder Day0001, ----, Day0024 is nothing
+it's mean not push duty yet or no duty !!!
+
+
+
+
+--- This is the track when i'm learning at Hacktiv8 first programing, Intro To Programing class ---
+
+Sahrul Sidik
+https://github.com/SahrulSidik/
+
