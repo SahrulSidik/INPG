@@ -1,4 +1,4 @@
-varkecepatan = 20;
+var kecepatan = 20;
 var penumpang = 4;
 
 if (penumpang > 2) {
