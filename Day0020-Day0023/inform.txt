@@ -1,1 +1,0 @@
-Create a simple applications using HTML, CSS and JavaScript.
